@@ -11,4 +11,4 @@ php artisan serve
 No index, há um menu aonde disponibiliza listagem, download de CSV e Excel.
 Foi usado laravel, então procure os codigos no controller, no service provider e um service custom.
 
-Att,php artisan serve
+Att,
